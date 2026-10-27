@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Home</string>
+    <string name="service_name">Home button takeover</string>
+    <string name="service_description">Returns the Home button to this launcher instead of the Fire TV home screen. Off unless you turn it on.</string>
+</resources>
