@@ -8,6 +8,8 @@ account sign-in.
 It is published as-is for others to use and fork; it is not configurable beyond the
 built-in Settings page.
 
+![Home screen](docs/screenshot.png)
+
 ## Features
 
 - One row of favourite app tiles using each app's **own** banner/icon from its
